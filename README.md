@@ -39,7 +39,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Mastrting+Java+Operators_interview_prep](https://ytcards.demolab.com/?id=84vahN4f_Gc&Mastrting+Java+Operators_interview_prep&lang=en&timestamp=1717164035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508 "Mastering Java Operators: Essential Interview Questions")](https://www.youtube.com/watch?v=84vahN4f_Gc?si=we5vQvEJgPFhW2tC)
+[![Mastering Java Operators: Essential Interview Questions](https://ytcards.demolab.com/?id=84vahN4f_Gc&title=Mastering+Java+Operators%3A+Essential+Interview+Questions&lang=en&timestamp=1717164035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508 "Mastering Java Operators: Essential Interview Questions")](https://www.youtube.com/watch?v=84vahN4f_Gc?si=we5vQvEJgPFhW2tC)
+
 
 [![I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind](https://ytcards.demolab.com/?id=f_ZxgQQ74Lc&title=I+Built+a+3D+Developer+Portfolio+Website+%2F%2F+Three.js+%2B+React+%2B+Tailwind&lang=en&timestamp=1717164035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508 "I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind")](https://www.youtube.com/watch?v=f_ZxgQQ74Lc)
 [![The Pioneers of Computer Science](https://ytcards.demolab.com/?id=9904LHBwSL8&title=The+Pioneers+of+Computer+Science&lang=en&timestamp=1715094012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "The Pioneers of Computer Science")](https://www.youtube.com/watch?v=9904LHBwSL8)
