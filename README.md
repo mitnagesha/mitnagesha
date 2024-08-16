@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, NodeJs, Python**
 
-- 👨‍💻 All of my projects are available at [rahulvm.com](rahulvm.com)
+- 👨‍💻 All of my projects are available at [rahulvm.com](https://rahulmajukar.netlify.app)
 
 - 📝 I regularly write articles on [hackifytech.com](hackifytech.com)
 
