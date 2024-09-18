@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Majukar</h1>
+<h1 align="center">Hi 👋, I'm Nagesha Uppara</h1>
 <h3 align="center">A passionate frontend developer, Java(Spring boot) Developer from India</h3>
 
 - 🔭 I’m currently working on **Farm360**
