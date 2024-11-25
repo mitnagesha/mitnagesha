@@ -134,7 +134,7 @@ root = tk.Tk()
 root.title("Signature Matching")
 root.geometry("600x800")
 
-main_frame = tk.Frame(root, bg='red', bd=5)
+main_frame = tk.Frame(root, bg='blue', bd=5)
 main_frame.pack(pady=20, padx=20, fill=tk.BOTH, expand=True)
 
 uname_label = tk.Label(main_frame, text="Compare Two Signatures:", font=10, bg='orange', fg='white')
@@ -144,7 +144,7 @@ uname_label.pack(pady=20)
 img1_frame = tk.Frame(main_frame, bg='green')
 img1_frame.pack(pady=10, fill=tk.X)
 
-img1_message = tk.Label(img1_frame, text="Signature 1", font=10, bg='orange', fg='white')
+img1_message = tk.Label(img1_frame, text="Signature 1", font=10, bg='black', fg='white')
 img1_message.pack(side=tk.LEFT, padx=10)
 
 image1_path_entry = tk.Entry(img1_frame, font=10)
