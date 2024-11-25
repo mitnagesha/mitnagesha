@@ -7,7 +7,7 @@ from skimage.metrics import structural_similarity as ssim
 
 def match(path1, path2):
     # read the images
-    img1 = cv2.imread(path1)
+    img1 = cv2.imread(path2)
     img2 = cv2.imread(path2)
     # turn images to grayscale
     if img1 is None:
