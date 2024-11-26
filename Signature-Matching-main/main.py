@@ -14,7 +14,7 @@ THRESHOLD = 80
 logging.basicConfig(level=logging.DEBUG)
 
 def browsefunc(ent):
-    filename = askopenfilename(filetypes=[("imag145e", ".jpeg"),
+    filename = askopenfilename(filetypes=[("image", ".jpeg"),
 
                                           ("image", ".png"),
 
