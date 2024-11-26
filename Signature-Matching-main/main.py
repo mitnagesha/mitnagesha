@@ -14,12 +14,10 @@ THRESHOLD = 80
 logging.basicConfig(level=logging.DEBUG)
 
 def browsefunc(ent):
-    filename = askopenfilename(filetypes=[("image", ".jpeg"),
-<<<<<<< HEAD
-                                          ("image123", ".png"),
-=======
-                                          ("image", ".kkk"),
->>>>>>> 9dac826f787cd6fc11aaf9e4e4b105878e0e2d30
+    filename = askopenfilename(filetypes=[("imag145e", ".jpeg"),
+
+                                          ("image", ".png"),
+
                                           ("image", ".jpg"),])
     ent.delete(0, tk.END)
     ent.insert(tk.END, filename)
